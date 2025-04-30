@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_settings"
+        android:title="Settings" />
+    <item
+        android:id="@+id/menu_graphics"
+        android:title="My Cart items" />
+    <item
+        android:id="@+id/menu_products"
+        android:title="Interactive list of products"/>
+
+    <item
+        android:id="@+id/menu_profile"
+        android:title="Profile" />
+    <item
+        android:id="@+id/action_contact_us"
+        android:title="Contact Us"/>
+    <item
+        android:id="@+id/action_about_us"
+        android:title="About Us"/>
+
+    <item
+        android:id="@+id/action_logout"
+        android:title="Logout" />
+
+</menu>
